@@ -1,0 +1,27 @@
+{
+  "name": "slp-portal",
+  "version": "1.0.0",
+  "description": "SLPNetwork Software Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SLP-Development/slp-portal.git"
+  },
+  "author": "SLPDevelopment, steev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SLP-Development/slp-portal/issues"
+  },
+  "homepage": "https://github.com/SLP-Development/slp-portal#readme",
+  "dependencies": {
+    "electron": "^11.1.1",
+    "electron-builder": "^22.9.1",
+    "electron-updater": "^4.3.5",
+    "fs": "0.0.1-security",
+    "minecraft-launcher-core": "^3.15.6",
+    "request": "^2.88.2"
+  }
+}
